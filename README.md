@@ -16,7 +16,7 @@ I'm always looking to expand my knowledge. Right now, I'm diving deeper into:
 
 ## 📫 How to reach me
 - **Email:** [tanzir.razzaque@northsouth.edu](mailto:tanzir.razzaque@northsouth.edu)
-- **LinkedIn:** [linkedin.com/in/tanzir](https://linkedin.com/in/tanzir)
+- **LinkedIn:** [linkedin.com/in/tanzir-razzaque](https://linkedin.com/in/tanzir-razzaque)
   
 
 ## ✨ Fun Facts
