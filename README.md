@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm TanzirR! 👋
 
-<!--
-**TanzirR/TanzirR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer and technology enthusiast who loves building innovative solutions and exploring new technologies.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools
+- **Programming Languages:** JavaScript, Python
+- **Frameworks & Libraries:** React, Node.js, Scikit-Learn, Pytorch, NumPy, Pandas, Matplotlib
+- **Development Tools:** Git, Docker, VS Code, Jupyter Notebook
+- **Database Systems:** MySQL, MongoDB 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+I'm always looking to expand my knowledge. Right now, I'm diving deeper into:
+- TypeScript
+- Next.js
+  
+
+## 📫 How to reach me
+- **Email:** [tanzir.razzaque@northsouth.edu](mailto:tanzir.razzaque@northsouth.edu)
+- **LinkedIn:** [linkedin.com/in/tanzir](https://linkedin.com/in/tanzir)
+  
+
+## ✨ Fun Facts
+- 🌍 I love traveling and exploring new cultures.
+- 💡 I enjoy solving complex problems and building AI integrated web apps.
+- 🎮 In my free time, you can find me gaming or tinkering with new gadgets.
+
+Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate. 🚀
