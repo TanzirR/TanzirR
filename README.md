@@ -4,15 +4,13 @@ Welcome to my GitHub profile! I'm a passionate developer and technology enthusia
 
 ## 🔧 Technologies & Tools
 - **Programming Languages:** JavaScript, Python
-- **Frameworks & Libraries:** React, Node.js, Scikit-Learn, Pytorch, NumPy, Pandas, Matplotlib
-- **Development Tools:** Git, Docker, VS Code, Jupyter Notebook
-- **Database Systems:** MySQL, MongoDB 
-
-## 🌱 Currently Learning
-I'm always looking to expand my knowledge. Right now, I'm diving deeper into:
-- TypeScript
-- Next.js
-  
+- **AI/Data Science:** Scikit-Learn, PyTorch, NumPy, Pandas, Matplotlib
+- **Frontend Frameworks**: HTML, CSS, Bootstrap, React
+- **Backend Frameworks**: Node.js, Express.js
+- **Databases**: PostgreSQL, MySQL, MongoDB
+- **ORMs**: Prisma
+- **API Testing**: Postman, REST Client
+- **Version Control**: Git, GitHub
 
 ## 📫 How to reach me
 - **Email:** [tanzir.razzaque@gmail.com](mailto:tanzir.razzaque@gmail.com)
@@ -21,7 +19,6 @@ I'm always looking to expand my knowledge. Right now, I'm diving deeper into:
 
 ## ✨ Fun Facts
 - 🌍 I love traveling and exploring new cultures.
-- 💡 I enjoy solving complex problems and building AI integrated web apps.
+- 💡 I enjoy learning new tools and technologies.
 - 🎮 In my free time, you can find me gaming or tinkering with new gadgets.
 
-Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate. 🚀
