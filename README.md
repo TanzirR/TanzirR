@@ -1,4 +1,5 @@
 ![Description of GIF](1234567.gif)
+![Visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=Profile%20Views&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FGitHub%2FTanzirR)
 
 # Hi there, I'm Tanzir! 👋
 
