@@ -1,5 +1,5 @@
 ![Description of GIF](1234567.gif)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=TanzirR)
+
 
 # Hi there, I'm Tanzir! 👋
 
