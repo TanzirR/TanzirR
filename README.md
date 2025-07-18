@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-Welcome to my GitHub profile! I'm a passionate developer and technology enthusiast who loves building innovative solutions and exploring new technologies.
+I'm proficient in JavaScript and Python and comfortable using frameworks such as React, Express JS, PyTorch, Scikit-Learn and tools needed for data analysis such as NumPy, Pandas, Matplotlib, MySQL. I have experience working in computer vision that deals with object detection and pose estimation using the YOLO algorithm as well as building custom datasets for various computer vision tasks.
 
 
 ## 🌐 Socials:
