@@ -1,5 +1,5 @@
 # 💫 About Me:
-AI/ML Engineer with hands-on experience in developing end-to-end NLP systems, including a multilingual Retrieval-Augmented Generation (RAG) pipeline for Bengali, English document question answering. Experienced in computer vision tasks such as object detection, pose estimation, and image segmentation, as well as supervised machine learning workflows.
+I am a passionate software developer, AI Engineer, and lifelong learner, eager to build robust and scalable AI-driven applications. Experienced in developing end-to-end AI systems across Large Language Models, agentic AI, and computer vision. I am continuously keeping myself up to date with emerging technologies and seeking opportunities to contribute to real-world software applications.
 
 
 ## 🌐 Socials:
